@@ -27,7 +27,7 @@
 ## Clone Repository
 
 ```
-$ git clone https://github.com/luumarodrigues/Terraform-metabase.git
+$ git clone https://github.com/luumarodrigues/IaC-Metabase.git
 ```
 
 ## Run Script
