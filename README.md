@@ -1,6 +1,5 @@
 
 ## Terraform-Metabase
-[![Build Status](https://travis-ci.org/luumarodrigues/Terraform-metabase.svg?branch=master)](https://travis-ci.org/luumarodrigues/Terraform-metabase)
 
 - Create and configure aws instance - ubuntu
 - Install JDK >= 8
